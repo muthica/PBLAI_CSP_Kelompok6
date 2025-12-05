@@ -1,6 +1,6 @@
 # PBLAI_CSP_Kelompok6
 
-      🌿🌿🌿
+🌿🌿🌿🌿🌿
 **Deskripsi Singkat**
 
 Program dibuat menggunakan Constraint Satisfaction Problem (CSP) untuk membuat jadwal irigasi optimal pada lahan pertanian dengan berbagai jenis tanaman dan juga untuk mengalokasikan slot waktu irigasi ke setiap petak dengan mempertimbangkan:
