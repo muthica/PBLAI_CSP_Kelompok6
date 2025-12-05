@@ -9,6 +9,7 @@ Program dibuat menggunakan Constraint Satisfaction Problem (CSP) untuk membuat j
 - Jam operasional harian yang tersedia
 - Constraint non-overlapping (satu petak tidak boleh disiram 2 kali di jam yang sama)
 
+
 **📊Dataset**
 
 Program memuat parameter penjadwalan dan kendala dari 2 file CSV:
@@ -17,6 +18,7 @@ Program memuat parameter penjadwalan dan kendala dari 2 file CSV:
 2. _"pump_settings.csv"_ (Domain & Kendala Kapasitas)
     File berisi domain waktu yang tersedia dan kendala kapasitas global.
     Program juga akan otomatis membentuk slot waktu (Domain) dari nilai "jam_mulai"  hingga "jam_selesai" .
+
 
 **🌾Cara Menjalankan Program🌾**
 
